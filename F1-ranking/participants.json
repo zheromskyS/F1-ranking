@@ -1,0 +1,42 @@
+[
+  {
+    "name": "SAI",
+    "position": 1
+  },
+  {
+    "name": "VER",
+    "position": 2
+  },
+  {
+    "name": "PER",
+    "position": 3
+  },
+  {
+    "name": "LEC",
+    "position": 4
+  },
+  {
+    "name": "PIA",
+    "position": 5
+  },
+  {
+    "name": "NOR",
+    "position": 6
+  },
+  {
+    "name": "HAM",
+    "position": 7
+  },
+  {
+    "name": "RUS",
+    "position": 8
+  },
+  {
+    "name": "ALO",
+    "position": 9
+  },
+  {
+    "name": "STR",
+    "position": 10
+  }
+]
