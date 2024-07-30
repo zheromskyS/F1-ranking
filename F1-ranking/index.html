@@ -3,6 +3,34 @@
   <head>
     <meta charset="UTF-8" />
     <title>Title</title>
+    <link rel="stylesheet" href="style.css" />
   </head>
-  <body></body>
+  <body>
+    <div class="participants">
+    </div>
+    <div class="change-participant">
+      <form id="change-form">
+        <div class="change-participant-name">
+          <label for="name">
+            Name
+            <select name="name" id="name">
+              <option>--NAME--</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="change-participant-position">
+          <label for="change-position">
+            Position (between 1 and 10)
+            <input type="number" value="1" min="1" max="10" id="change-position" />
+          </label>
+        </div>
+
+        <div class="change-participant-submit-button">
+          <input type="submit" value="Submit" id="submit"/>
+        </div>
+      </form>
+    </div>
+  <script src="script.js"></script>
+  </body>
 </html>
